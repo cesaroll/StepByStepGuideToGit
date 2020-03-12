@@ -1,1 +1,3 @@
 # StepByStepGuideToGit
+
+An example guide
