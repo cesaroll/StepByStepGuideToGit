@@ -1,3 +1,4 @@
-# StepByStepGuideToGit
+# Adding conflicting changes on purpose 
 
-An example guide
+Another conflict here
+
