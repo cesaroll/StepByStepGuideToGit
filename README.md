@@ -1,4 +1,6 @@
-# Adding conflicting changes on purpose 
+# StepByStepGuideToGit
 
-Another conflict here
 
+This is some text here
+
+And something else here
